@@ -1,4 +1,3 @@
-//-------javaScript------return largest number in each array------------------------------
 function largestOfFour(arr) {
   var results = [];
   for (var i = 0; i < arr.length; i++) {
@@ -17,7 +16,6 @@ function largestOfFour(arr) {
 
 largestOfFour([[4, 5, 1, 3], [13, 27, 18, 26], [32, 35, 37, 39], [1000, 1001, 857, 1]]);
 
-//---------jQuery-------return largest number in each array------------------------------
 function largestOfFour(arr) {
   var large = [];
  for (var i = 0 ; i < arr.length ; i++){
@@ -27,6 +25,3 @@ function largestOfFour(arr) {
 }
 
 largestOfFour([[4, 5, 1, 3], [13, 27, 18, 26], [32, 35, 37, 39], [1000, 1001, 857, 1]]);
-
-
-//-----------------------------------------------------------------------------------------
